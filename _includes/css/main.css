@@ -459,3 +459,9 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+/* Schedule formatting */
+#calendar-container {
+    margin: auto;
+    max-width: 768px;
+}
