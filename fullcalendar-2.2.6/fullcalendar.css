@@ -21,6 +21,9 @@ body .fc { /* extra precedence to overcome jqui */
 
 /* Colors
 --------------------------------------------------------------------------------------------------*/
+.fc-view-container {
+	background-color: #B8B8BA;
+}
 
 .fc-unthemed th,
 .fc-unthemed td,
@@ -29,7 +32,7 @@ body .fc { /* extra precedence to overcome jqui */
 .fc-unthemed tbody,
 .fc-unthemed .fc-row,
 .fc-unthemed .fc-popover {
-	border-color: #ddd;
+	border-color: #FFF;
 }
 
 .fc-unthemed .fc-popover {
@@ -324,7 +327,7 @@ previous button's border...
 .fc th,
 .fc td {
 	border-style: solid;
-	border-width: 1px;
+	border-width: 2px;
 	padding: 0;
 	vertical-align: top;
 }
@@ -809,7 +812,6 @@ a.fc-more:hover {
 .fc-time-grid .fc-helper-skeleton {
 	z-index: 6;
 }
-
 
 /* TimeGrid Slats (lines that run horizontally)
 --------------------------------------------------------------------------------------------------*/
