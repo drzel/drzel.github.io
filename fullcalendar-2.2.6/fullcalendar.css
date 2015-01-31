@@ -25,6 +25,10 @@ body .fc { /* extra precedence to overcome jqui */
 	background-color: #B8B8BA;
 }
 
+.fc thead {
+	background-color: #363942;
+}
+
 .fc-unthemed th,
 .fc-unthemed td,
 .fc-unthemed hr,
