@@ -19,7 +19,7 @@ $(document).ready(function() {
     	maxTime: "22:00:00",
     	allDaySlot: false,
     	contentHeight: "auto",
-    	eventColor: "hsl(220,20%,30%)",
+    	eventColor: "#060708",
     	googleCalendarApiKey: 'AIzaSyBdqGj_F2h02H5MV6PqjfuTzpee2KEJYQM',
     	eventSources: [
             {
@@ -29,7 +29,6 @@ $(document).ready(function() {
             {
                 googleCalendarId: '04ubl8ju5lr7osddqp49pveqd3glfioa@import.calendar.google.com',
                 className: 'gaba-calendar',
-                color: 'hsl(120,20%,30%)',
             }
     	]
     })
