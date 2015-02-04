@@ -27,6 +27,7 @@ body .fc { /* extra precedence to overcome jqui */
 
 .fc thead {
 	background-color: #363942;
+	color: white;
 }
 
 .fc td {
