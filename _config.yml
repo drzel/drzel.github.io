@@ -41,5 +41,5 @@ credits: "Sheldon J. Johnson is a Tokyo based English teacher, web developer, mu
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
   
