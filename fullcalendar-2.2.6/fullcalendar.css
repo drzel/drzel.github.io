@@ -22,7 +22,7 @@ body .fc { /* extra precedence to overcome jqui */
 /* Colors
 --------------------------------------------------------------------------------------------------*/
 .fc-view-container {
-	background-color: #B8B8BA;
+	background-color: hsl(0,0%,90%);
 }
 
 .fc thead {
