@@ -3,7 +3,7 @@ $(document).ready(function() {
     $('#calendar').fullCalendar({
     // put your options and callbacks here
     	eventRender: function(event, element){
-	    	if (event.title == "GABA Lesson - NA"){
+	    	if (event.title == "GABA Lesson - NA" || event.title == "GABA Lesson - SB"){
 	    		return false;
 	    	}
 	    },
