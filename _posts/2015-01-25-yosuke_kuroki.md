@@ -5,6 +5,46 @@ title:  "Yosuke Kuroki"
 
 Vocabulary
 ==========
+ambiguities
+
+octane
+
+transparent
+
+opaque
+
+over all
+
+contingent
+
+copious
+
+so much
+
+more than enough
+
+a lot
+
+plenty
+
+clarify
+
+criteria
+
+criterion
+
+protection
+
+tariff
+
+quota
+
+subsidy
+
+fish
+
+staff
+
 expenditure
 
 financials
@@ -58,6 +98,51 @@ entity
 
 Phrases
 =======
+
+If there is some form of conflict between Vietnam and China, the Chinese company will not support out project.
+
+One problem is the reliability, the other problem is the post-sales support from the Chinese company.
+
+There is a risk in the upgrading of the technology.
+
+Yesterday at my company, there was a meeting about investment in the future and the priority of our project was low so it will probably not be realized.
+
+I think the risk is acceptable because the owner of the counterpart is Ho Chi Minh city.
+
+The problem of this project is that profit depends on the import tax so there is a very big risk.
+
+If we have an upgrading plant we can import crude oil at a low price and sell gasoline at a high price.
+
+In Vietname the selling price is almost fixed.
+
+The core point of this project is avoiding import tax.
+
+To clarify, we are planning to construct a an upgrade pland and a refinery.
+
+A high rating of octane.
+
+Bring me up to speed.
+
+Sorry I didn't catch your name.
+
+The staff in Singapore were very friendly.
+
+My desire to work in Singapore became stronger.
+
+What's news?
+
+How many people were in your contingent.
+
+The Japanese staff of Vietnam told me what they said.
+
+I couldn't hear much because the volume of their talking was declining so their speaking was not clear for me.
+
+I learned a lot of things.
+
+The refinery was opaque.
+
+I want to check the flow from importing the crude oil to refining the gasoline.
+
 We can take away this knowledge and consider it further.
 
 Today we have been able to observe the operation of the factory. It has been very beneficial for us.
