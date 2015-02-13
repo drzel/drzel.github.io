@@ -25,6 +25,22 @@ gonna (going to)
 
 wanna (want to)
 
+noun
+
+verb
+
+adjective
+
+preposition
+
+singular
+
+plural
+
+tense
+
+article
+
 
 Phrases
 =======
