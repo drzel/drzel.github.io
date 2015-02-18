@@ -9,7 +9,7 @@ $(document).ready(function() {
 	    },
     	header: {
     		left: 'prev',
-    		center: 'today month,agendaWeek',	
+    		center: 'today',	
     		right: 'next',
     	},
     	defaultView: 'agendaWeek',
