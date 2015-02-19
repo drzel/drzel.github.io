@@ -3,6 +3,23 @@ layout: page
 title:  "Toshihiro Ueki"
 ---
 
+Homework
+========
+
+Revise:
+
+noun (man, apple, computer, coffee)
+
+verb (thinking, eat, code, drink)
+
+adjective (tall, sweet, fast, hot)
+
+tense (thought, think, will think)
+
+article (a, the)
+
+preposition (of, in, with, around, for, by)
+
 Vocabulary
 ==========
 

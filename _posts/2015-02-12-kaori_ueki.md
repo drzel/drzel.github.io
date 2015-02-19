@@ -3,6 +3,19 @@ layout: page
 title:  "Kaori Ueki"
 ---
 
+Homework
+========
+
+For help listening to a strong London accent I recommend watching some comedy by Russell Brand and Ricky Gervais:
+
+<https://www.youtube.com/user/russellbrand>
+
+<https://www.youtube.com/user/plumplard>
+
+Below you will find a list of words that might be useful when discussing interior design. Learn some new adjectives and I'll come with some scenes for you to describe for your next lesson.
+
+<http://www.words-to-use.com/words/real-estate/>
+
 Vocabulary
 ==========
 
