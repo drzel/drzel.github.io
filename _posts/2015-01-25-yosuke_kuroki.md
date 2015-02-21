@@ -5,6 +5,50 @@ title:  "Yosuke Kuroki"
 
 Vocabulary
 ==========
+prolong
+
+the day off
+
+may days off
+
+my weekend
+
+the weekend
+
+annual leave
+
+metaphor
+
+simile
+
+fungi
+
+fungus
+
+tense
+
+article
+
+preposition
+
+theory
+
+transatlantic
+
+transnational
+
+vague
+
+worcestershire sauce
+
+predict
+
+phonetic
+
+caned
+
+painful
+
 ambiguities
 
 octane
@@ -98,6 +142,22 @@ entity
 
 Phrases
 =======
+
+I get twenty days of annual leave.
+
+Two weeks after that I have annual leave on the friday.
+
+What do you mean by ()?
+
+It's not the same if you eat it all the time.
+
+The damage to my body was very painful.
+
+When I slipped it really hurt.
+
+I'll go to Hokkaido.
+
+The last time I went snowboarding was three years ago.
 
 If there is some form of conflict between Vietnam and China, the Chinese company will not support out project.
 
