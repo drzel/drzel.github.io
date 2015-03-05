@@ -6,22 +6,54 @@ title:  "Toshihiro Ueki"
 Homework
 ========
 
-Revise:
+Practice the difference between the following numbers:
 
-noun (man, apple, computer, coffee)
+13 (thirteen) | 30 (thirty)
+14 (fourteen) | 40 (forty)
+15 (fifteen) | 50 (fifty)
+16 (sixteen) | 60 (sixty)
+17 (seventeen) | 70 (seventy)
+18 (eighteen) | 80 (eighty)
+19 (nineteen)| 90 (ninety)
 
-verb (thinking, eat, code, drink)
+What is the difference between then and than? Fill in the gaps:
 
-adjective (tall, sweet, fast, hot)
+We went to the restaurant, and ____ we went home.
 
-tense (thought, think, will think)
-
-article (a, the)
-
-preposition (of, in, with, around, for, by)
+The red car is much faster ____ the blue car.
 
 Vocabulary
 ==========
+
+earthquake
+
+excursion
+
+seeing
+
+incredible
+
+amazing
+
+drank | drink | will drink
+
+burn down
+
+on time
+
+dynamic
+
+static
+
+bloom
+
+other | another
+
+pin cushion
+
+toothpick
+
+flower arrangement
 
 long black
 
@@ -86,6 +118,30 @@ drum machine
 
 Phrases
 =======
+
+We ate scones at the cafe. They were incredible.
+
+The temple was burned down in 1915. It was a tragedy.
+
+Running is faster than skating.
+
+He is taller than him.
+
+There are more of them than there are of them.
+
+It was my first time seeing rain in Kyoto.
+
+In junior high school I went on an excursion to Kyoto.
+
+The trains in Tokyo are always on time except when it rains.
+
+The concrete of Tokyo is static except during an earthquake.
+
+The weather in Tokyo is highly dynamic.
+
+The beautiful flowers bloomed in spring.
+
+The standard format is to only use five flowers.
 
 Which do you prefer, black coffee or latte?
 
@@ -160,3 +216,18 @@ an apple
 a house
 
 an hour
+
+Old Homework
+============
+
+noun (man, apple, computer, coffee)
+
+verb (thinking, eat, code, drink)
+
+adjective (tall, sweet, fast, hot)
+
+tense (thought, think, will think)
+
+article (a, the)
+
+preposition (of, in, with, around, for, by)
