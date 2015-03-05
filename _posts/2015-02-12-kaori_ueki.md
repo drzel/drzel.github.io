@@ -6,18 +6,50 @@ title:  "Kaori Ueki"
 Homework
 ========
 
-For help listening to a strong London accent I recommend watching some comedy by Russell Brand and Ricky Gervais:
-
-<https://www.youtube.com/user/russellbrand>
-
-<https://www.youtube.com/user/plumplard>
-
-Below you will find a list of words that might be useful when discussing interior design. Learn some new adjectives and I'll come with some scenes for you to describe for your next lesson.
-
-<http://www.words-to-use.com/words/real-estate/>
+Science homework: Look up the periodic table. (:
 
 Vocabulary
 ==========
+
+twenty ten / two thousand and ten (2010)
+
+element
+
+dialect
+
+permanent
+
+temporary
+
+lodger
+
+ramshackle
+
+hotchpotch
+
+clutter
+
+quaint
+
+jury-rig
+
+funnel
+
+unmarried
+
+narrative
+
+recount
+
+introduction
+
+complication
+
+resolution
+
+moral
+
+superstition
 
 landscape
 
@@ -109,6 +141,28 @@ column
 Phrases
 =======
 
+out in the elements
+
+The Osaka dialect is different from Tokyo's.
+
+The permanent residents use a different fridge from the temporary guests.
+
+Don't mind the lodger.
+
+My house is ramshackled and hotchpotch, yet comfortable and warm.
+
+The kitchen is cluttered but some great food is prepared there.
+
+Grandma's house is quaint.
+
+I jury-rigged the broken sliding door with double sided tape.
+
+Most narratives have a moral.
+
+I wrote a recount of my travels in Japan.
+
+The old superstition says that if you break a mirror you'll have seven years of bad luck.
+
 The room has mountain views and a vaulted ceiling.
 
 It's will lit.
@@ -160,3 +214,17 @@ Pronunciation
 TEKS-TIYL (textile)
 
 AN-TI-SEE-PAY-TING (anticipating)
+
+
+Old Homework
+============
+
+For help listening to a strong London accent I recommend watching some comedy by Russell Brand and Ricky Gervais:
+
+<https://www.youtube.com/user/russellbrand>
+
+<https://www.youtube.com/user/plumplard>
+
+Below you will find a list of words that might be useful when discussing interior design. Learn some new adjectives and I'll come with some scenes for you to describe for your next lesson.
+
+<http://www.words-to-use.com/words/real-estate/>
