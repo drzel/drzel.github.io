@@ -6,10 +6,41 @@ title:  "Kaori Ueki"
 Homework
 ========
 
-Science homework: Look up the periodic table. (:
+Have a look at the wikipedia article on the English passive voice:
+http://en.wikipedia.org/wiki/English_passive_voice
 
 Vocabulary
 ==========
+
+competitor
+
+threat
+
+stalling
+
+buying time.
+
+precise
+
+rough
+
+keep tabs
+
+responsible
+
+individual
+
+BYO
+
+botchy
+
+opposite
+
+agressive
+
+assertive
+
+passive
 
 twenty ten / two thousand and ten (2010)
 
@@ -121,7 +152,7 @@ attention
 
 telco
 
-telecommunications companys
+telecommunications company
 
 complaints
 
@@ -140,6 +171,70 @@ column
 
 Phrases
 =======
+
+Did you threaten to go to a competitor?
+
+They won't give me an answer, I think they're stalling.
+
+I'll get back to you.
+
+How long have they been here?
+
+How long will they stay here?
+
+A month all together.
+
+Another month.
+
+I have been here for two months already and I will stay for another month.
+
+When did you arrive?
+
+When will you leave?
+
+I don't keep tabs on them.
+
+On tuesday night, I'm responsible for taking out the recycling.
+
+How did you get to Chichibu?
+
+How long did it take to get to Chichibu?
+
+Last night I discussed Japanese people with my friend but I couldn't express myself.
+
+He stayed in L.A. for three months.
+
+We talked about respect.
+
+He said he has a lot of respect for Japanese people becase they live better than French people.
+
+Japanese people live longer than French people.
+
+Maybe he hasn't seen many things. I think he is correct but I think people are different. The most important thing is the individual, not their nationality.
+
+Bring your own (alcohol)
+
+I did a botchy repair job on that door.
+
+The opposite of hot is cold.
+
+The opposite of up is down.
+
+The opposite of big is small.
+
+The opposite of group is individual.
+
+The opposite of mean is kind.
+
+The opposite of precise is rough.
+
+Give me a second
+
+It takes me a little while to make a sentence, please give me a second.
+
+I ate the bread (active voice)
+
+The bread was eaten (passive voice)
 
 out in the elements
 
@@ -218,6 +313,8 @@ AN-TI-SEE-PAY-TING (anticipating)
 
 Old Homework
 ============
+
+Science homework: Look up the periodic table. (:
 
 For help listening to a strong London accent I recommend watching some comedy by Russell Brand and Ricky Gervais:
 

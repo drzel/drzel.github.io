@@ -6,24 +6,51 @@ title:  "Toshihiro Ueki"
 Homework
 ========
 
-Practice the difference between the following numbers:
-
-13 (thirteen) | 30 (thirty)
-14 (fourteen) | 40 (forty)
-15 (fifteen) | 50 (fifty)
-16 (sixteen) | 60 (sixty)
-17 (seventeen) | 70 (seventy)
-18 (eighteen) | 80 (eighty)
-19 (nineteen)| 90 (ninety)
-
-What is the difference between then and than? Fill in the gaps:
-
-We went to the restaurant, and ____ we went home.
-
-The red car is much faster ____ the blue car.
+Check out the first episode of Teknoman in English:
+http://youtu.be/j4DrqMYzdLg?list=PLFD801CB771B979F5
 
 Vocabulary
 ==========
+
+fever
+
+temperature
+
+medicine
+
+I took cold medicine.
+
+We put it in the fridge.
+
+refridgerator
+
+slippery
+
+slip
+
+slip over
+
+hike
+
+cartoon
+
+EE-VIL
+
+abducted
+
+kidnapped
+
+strange
+
+plant
+
+escaped
+
+became / become / will become
+
+crystal
+
+radio
 
 earthquake
 
@@ -118,6 +145,45 @@ drum machine
 
 Phrases
 =======
+Last weekend I had a cold and I had a fever.
+
+What temperature is it outside? It's about 17 degrees.
+
+I had a fever on Friday and I got better on Monday.
+
+What did you do this week?
+
+I was bed-riddled.
+
+My birth place is Nagano.
+
+I was born in Nagano, there are a lot of onsens.
+
+The path was very slippery.
+
+What time did you go hiking?
+
+She had had enough.
+
+No thank you, I've had enough for now.
+
+Japanese cartoons are much better than American cartoons.
+
+His family became evil.
+
+Aliens abducted Teknoman and his family. The aliens put Blade and his family into a strange plant. Then after 24 hours they became evil Teknomen.
+
+Blade escaped after 23.5 hours, so he could become Teknoman for half a hour. Blade didn't become evil, but if he stays as Teknoman for more than half an hour he will become full evil alien.
+
+He cried when he killed them.
+
+I will watch Teknoman.
+
+Twenty three years ago.
+
+It's the first time I heard about this story.
+
+I don't want to tell you how the story ends.
 
 We ate scones at the cafe. They were incredible.
 
@@ -219,6 +285,22 @@ an hour
 
 Old Homework
 ============
+
+Practice the difference between the following numbers:
+
+13 (thirteen) | 30 (thirty)
+14 (fourteen) | 40 (forty)
+15 (fifteen) | 50 (fifty)
+16 (sixteen) | 60 (sixty)
+17 (seventeen) | 70 (seventy)
+18 (eighteen) | 80 (eighty)
+19 (nineteen)| 90 (ninety)
+
+What is the difference between then and than? Fill in the gaps:
+
+We went to the restaurant, and ____ we went home.
+
+The red car is much faster ____ the blue car.
 
 noun (man, apple, computer, coffee)
 
