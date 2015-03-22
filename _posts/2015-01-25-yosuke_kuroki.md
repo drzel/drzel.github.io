@@ -5,6 +5,85 @@ title:  "Yosuke Kuroki"
 
 Vocabulary
 ==========
+
+shady
+
+back room deal
+
+in depth
+
+inconsequential
+
+convey
+
+Have you been studying English?
+
+How do you study?
+
+go ahead
+
+lazy Susan
+
+chicken foot
+
+bravado
+
+liquid
+
+texture
+
+soft
+
+smooth
+
+matte
+
+in hot water
+
+under scrutiny
+
+lavish
+
+cases of beer
+
+50 head of cattle
+
+dark haired woman
+
+flamboyant
+
+prong
+
+donations
+
+indignation
+
+disgust
+
+deploring
+
+weighed in
+
+chagrin
+
+third person
+
+second person
+
+first person
+
+sternum
+
+contrition
+
+clothes iron
+
+critic
+
+in office
+
+appearance
+
 prolong
 
 the day off
@@ -39,7 +118,7 @@ transnational
 
 vague
 
-worcestershire sauce
+Worcestershire sauce
 
 predict
 
@@ -145,7 +224,7 @@ Phrases
 
 I get twenty days of annual leave.
 
-Two weeks after that I have annual leave on the friday.
+Two weeks after that I have annual leave on the Friday.
 
 What do you mean by ()?
 
@@ -173,11 +252,11 @@ The problem of this project is that profit depends on the import tax so there is
 
 If we have an upgrading plant we can import crude oil at a low price and sell gasoline at a high price.
 
-In Vietname the selling price is almost fixed.
+In Vietnam the selling price is almost fixed.
 
 The core point of this project is avoiding import tax.
 
-To clarify, we are planning to construct a an upgrade pland and a refinery.
+To clarify, we are planning to construct a an upgrade plant and a refinery.
 
 A high rating of octane.
 
@@ -328,3 +407,23 @@ I chose to take today off.
 Two weeks ago I worked on Saturday so I earned a day in lieu.
 
 The amalgamation of four LPG companies formed a much larger entity.
+
+We plan on using the Chinese technique in Vietnam.
+
+To interview the engineers and technicians at the refinery which already implements the technique.
+
+I thought there was a problem that we can't be certain that we will be able to continue to get the catalyst because it is very special and there is only once company that manufactures the product s if the company goes bankrupt, we can't run the refinery, but the licensing company said they guarantee to provide the catalyst.
+
+My role in this project is to make suggestions to our boss in headquarters.
+
+My colleague who was a trader in China got the information.
+
+This project was canceled twice before.
+
+The first time we concluded that the technique was unreliable and in the second study, the strategy of my company was looking at the upstream field.
+
+We got information thought our refinery in Vietnam succeeded at constructing a special refinery using the same technique as in China so we expect that we can also have this strategy.
+
+We can't use the identical technique so we are trying to make use of the technique used in the Chinese company.
+
+I was very afraid of being made to drink by the Chinese people, but in this project we are the customer of the Chinese people, so we didn't have to drink too much.
