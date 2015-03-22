@@ -3,14 +3,70 @@ layout: page
 title:  "Kaori Ueki"
 ---
 
-Homework
-========
-
-Have a look at the wikipedia article on the English passive voice:
-http://en.wikipedia.org/wiki/English_passive_voice
-
 Vocabulary
 ==========
+
+last
+
+wilt
+
+asthetic
+
+Appealing to the eye.
+
+drawn
+
+aggregate
+
+appealing
+
+sum
+
+rude
+
+implicit
+
+explicit
+
+thongs
+
+jandles
+
+flip-flops
+
+breed
+
+wore
+
+wear
+
+will wear
+
+pick flowers
+
+unprofessional
+
+vagrant
+
+bum
+
+homeless
+
+bun
+
+top-knot
+
+itchy
+
+scratch
+
+foreigners
+
+fighting
+
+arguing
+
+discussing
 
 competitor
 
@@ -172,6 +228,63 @@ column
 Phrases
 =======
 
+How long do they last?
+
+This pen lasts for about 30 lessons, then it runs out.
+
+The milk lastsfor two weeks, then it goes off.
+
+This lesson will last for one hour.
+
+They have a short life.
+
+We consider how the flowers were growing on the ground.
+
+We consider how the flower lived in the ground.
+
+The flower is wilting.
+
+We will cut the flower and put it in the water.
+
+What if the leaves are falling?
+
+We respect the flowers individuality.
+
+We consider where the most beautiful position of the  flower is.
+
+We consider where the sunlight is.
+
+We take a long look and move the flower.
+
+We consider how the eye is drawn across the flower.
+
+Designers are experts at aesthetics
+
+The aggregate of the lighting, colors, positioning gives the aesthetic.
+
+This coffee smells appealing.
+
+You didn't pay the bill.
+
+The bill wasn't paid.
+
+I wore thongs for the first time this year.
+
+A different breed of cherry blossom.
+
+It suits you.
+
+It's a little bit more professional.
+
+I had my hair up in a top-knot, but it got itchy.
+
+Cherry blossoms are diciduous.
+
+Christmas trees are evergreen.
+
+Peas are an annual plant.
+
+
 Did you threaten to go to a competitor?
 
 They won't give me an answer, I think they're stalling.
@@ -313,6 +426,9 @@ AN-TI-SEE-PAY-TING (anticipating)
 
 Old Homework
 ============
+
+Have a look at the wikipedia article on the English passive voice:
+http://en.wikipedia.org/wiki/English_passive_voice
 
 Science homework: Look up the periodic table. (:
 

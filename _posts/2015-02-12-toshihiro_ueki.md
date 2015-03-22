@@ -6,21 +6,64 @@ title:  "Toshihiro Ueki"
 Homework
 ========
 
-Check out the first episode of Teknoman in English:
-http://youtu.be/j4DrqMYzdLg?list=PLFD801CB771B979F5
+Listen to:
+It's a Man's Man's Man's World - James Brown
+
+and:
+This is a Woman's World - Neneh Cherry
+
 
 Vocabulary
 ==========
+
+parents
+
+"Ghost"
+
+pottery wheel
+
+web shop
+
+legend
+
+like
+
+keeps
+
+force
+
+mass
+
+accelleration
+
+bar
+
+raise
+
+present
+
+gift
+
+funk
+
+grandmother|grandfather|grandparents
+mother|father|parents
+sister|brother|siblings
+daughter|son|childen
+granddaughter|grandson|grandchildren
+
+aunty|uncle
+niece|nephew
+
+hear|listen|understand
+see|look|watch
+touch|feel
 
 fever
 
 temperature
 
 medicine
-
-I took cold medicine.
-
-We put it in the fridge.
 
 refridgerator
 
@@ -145,6 +188,72 @@ drum machine
 
 Phrases
 =======
+Last Thursday we went to Nagano, my home town.
+
+Did you see your parents?
+
+We met a ceramic artist.
+
+I bought his ceramics for our web shop.
+
+Dinner plates and mugs.
+
+I'll sell them on the web site.
+
+I'm still updating the web site.
+
+We got lost on the way to the artist's.
+
+I drove the car and we got lost.
+
+The ceramic artist lives on a mountain, very far up a long mountain road.
+
+Google Maps is great.
+
+I couldn't undertstand the English. I didn't understand the story.
+
+You talked about Tekkaman's crystal. This part was interesting.
+
+I don't understand the Tekkaman world.
+
+Teknoman is in the future. In 2097 I'll be dead.
+
+Maybe you will survive.
+
+I'm a little bit embarrassed but I like Daft Punk.
+
+I studied the English Daft Punk lyrics.
+
+The phoenix is immortal.
+
+comes back to life
+
+I like coffee.
+
+Coffee is like tea.
+
+Newtown's laws.
+
+Conservation of momentum.
+
+raise the bar
+
+get some
+
+get lucky
+
+she's up for it
+
+good fun
+
+I'm with it
+
+I'm down with that
+
+I took cold medicine.
+
+We put it in the fridge.
+
 Last weekend I had a cold and I had a fever.
 
 What temperature is it outside? It's about 17 degrees.
@@ -285,6 +394,9 @@ an hour
 
 Old Homework
 ============
+
+Check out the first episode of Teknoman in English:
+http://youtu.be/j4DrqMYzdLg?list=PLFD801CB771B979F5
 
 Practice the difference between the following numbers:
 
