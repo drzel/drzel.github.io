@@ -12,8 +12,6 @@ wilt
 
 asthetic
 
-Appealing to the eye.
-
 drawn
 
 aggregate
@@ -74,7 +72,7 @@ threat
 
 stalling
 
-buying time.
+buying time
 
 precise
 
@@ -227,6 +225,7 @@ column
 
 Phrases
 =======
+Appealing to the eye.
 
 How long do they last?
 

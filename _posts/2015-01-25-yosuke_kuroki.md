@@ -16,10 +16,6 @@ inconsequential
 
 convey
 
-Have you been studying English?
-
-How do you study?
-
 go ahead
 
 lazy Susan
@@ -221,6 +217,10 @@ entity
 
 Phrases
 =======
+
+Have you been studying English?
+
+How do you study?
 
 I get twenty days of annual leave.
 
