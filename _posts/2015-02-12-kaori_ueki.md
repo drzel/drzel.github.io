@@ -6,6 +6,146 @@ title:  "Kaori Ueki"
 Vocabulary
 ==========
 
+stocktake
+
+overtime
+
+thirty-first
+
+on track
+
+behind schedule
+
+ahead of time
+
+ahead
+
+in front
+
+compete
+
+competitor
+
+intensive
+
+full on
+
+significant
+
+conversational
+
+sophisticated
+
+child like
+
+order
+
+recommendation
+
+suggestions
+
+fiction
+
+non-fiction
+
+biography
+
+autobiograpy
+
+autonomous
+
+consultant
+
+consult
+
+captain
+
+navigator
+
+engineer
+
+boson
+
+able bodied seaman
+
+gradually
+
+breaking the law
+
+sue
+
+court
+
+expose
+
+losing a limb
+
+limbs
+
+polite
+not polite
+rude
+
+this morning
+
+account holder
+
+bank account
+
+phone account
+
+accountant
+
+count
+
+parliament
+
+expenses
+
+costs
+
+revenue
+
+sales
+
+profit
+
+(REP-RI-ZEN-TA-TIV) representative
+
+comfort
+
+understanding
+
+analytical
+
+expressive
+
+impressive
+
+I'm fucked
+
+period
+
+Fuck you
+
+I'm fucked
+
+Fuckin' A!
+
+for God's sake
+
+benefit
+
+cool
+
+That's cool
+
+All good
+
+carbohydrates
+
+that's great
+
 last
 
 wilt
@@ -225,6 +365,101 @@ column
 
 Phrases
 =======
+
+When I went to England, she showed me everything.
+
+Her husband became a seaman.
+
+formal language can be rude
+
+casual language is almost always okay
+
+I agree with you.
+
+We are planning on opening a real shop in Tokyo.
+
+I will take a holiday for one or two months.
+
+I want to go to school.
+
+I've been working in my shop for ten years, I have been working only.
+
+I couldn't take holidays. We only got one day off each week.
+
+I believed this was right for me.
+
+I didn't need anything apart from working and I thought this was my life.
+
+I realized that the world is big.
+
+I have not seen many things, only work.
+
+My father says to us; you have to work only and so now we hope to decide how we will work.
+
+We need to see many things, so now we are chnging.
+
+I have changed. Before I believed my father and I  thought I have to work only.
+
+I have a friend in Portugal. She is Japanese. She lived in England for ten years. Her husband is Portuguese. He is a product designer. They worked hard but they quit their jobs and she became a consultant of antiques for Japanese people in England.
+
+They can't live together all of the time.
+
+They live together for only a few months of the year.
+
+They are happy because she is glad he became a boson.
+
+In Japan, before I thought it was natural from me to only work. I really want to work but I realized it is not natural and I don't want that in my heart.
+
+I realized little by little.
+
+I will take them to court.
+
+I'm so depressed because of this problem.
+
+Being disconnected from the internet is like losing a limb.
+
+I am stressed now.
+
+Being disconnected from the internet is like losing a limb.
+
+I am stressed now.
+
+The account holder can authorize a representative.
+
+I was fucked up last night
+
+I was really drunk
+
+I don't want to offend you.
+
+No worries.
+
+Many women want to relax and feel at ease.
+
+I have a problem. I feel stressed. I want to hear daijobu, but he explains.
+
+after a while, this stops working
+
+I have a problem with no solution
+
+Are you fucking with me?
+
+Fuck it up.
+
+Do me a favor and shut the fuck up for fucks sake.
+
+I'm very shocked.
+
+Oh man, that's fucking cool.
+
+I decided I wont have noodles, ramen or rice in the evenings.
+
+How long did you keep the promise for?
+
+I think you will break your promise.
+
+Could you please keep it down just a little.
+
 Appealing to the eye.
 
 How long do they last?
