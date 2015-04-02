@@ -16,6 +16,76 @@ This is a Woman's World - Neneh Cherry
 Vocabulary
 ==========
 
+arc
+
+flood
+
+cos
+
+wilderness
+
+jungle
+
+bitterness
+
+jealosy
+
+anger
+
+hate
+
+load
+
+weight
+
+value
+
+waltz
+
+apostrophe
+
+style
+
+emphasis
+
+beige
+
+similar
+
+the same as
+
+similar to
+
+fatty  | lean
+hot | cold
+strong | weak
+downtempo | uptempo
+
+synonyms
+
+fatty
+oily
+heavy
+greasy
+
+fatty
+
+lean
+
+opposite
+
+antonym
+
+mackerel
+
+expiry date
+
+back home
+
+expires
+
+flying by
+
 parents
 
 "Ghost"
@@ -188,6 +258,63 @@ drum machine
 
 Phrases
 =======
+
+My visa expires on ___
+
+When will you leave?
+
+What type of sushi do you like?
+
+Mackerel is a poor mans fish.
+
+There are  many types of tuna.
+
+Japanese people like higher valued tuna.
+
+More expensive tuna is pink.
+
+Cheaper tuna is red.
+
+The pink type is delicious.
+
+if it's prepared correctly it can be even more delicious
+
+Jiro Dreams of Sushi
+
+three star restaurant
+
+I want to eat his sushi before he dies.
+
+Japanese people have a lot of special ages.
+
+In Japan, there are a lot of important ages to celebrate.
+
+duty (JEW-TI)
+
+still working
+
+he will work until he dies
+
+he will never retire
+
+This song is downtempo.
+
+This is Sheldon's book
+
+It's brown and green
+
+I like its shape
+
+It's James' book
+
+The value of the world without women is nothing.
+
+electric light
+
+The Bible
+
+My trip is flying by.
+
 Last Thursday we went to Nagano, my home town.
 
 Did you see your parents?
