@@ -6,6 +6,60 @@ title:  "Yosuke Kuroki"
 Vocabulary
 ==========
 
+demographic
+
+house wife
+
+The wedding
+
+celebrant
+
+registrar
+
+buddhist
+
+pathway
+
+Religions
+Christianity | Christian
+Islam | Muslim
+Judaism | Jew
+Buddhism | Buddhist
+Hinuism | Hindu
+Shintoism | Shinto
+
+Atheism | Atheist
+
+straight
+
+bent
+
+bend
+
+step ladder
+
+GPS
+
+abolish cash
+
+subsidize
+
+wastage
+
+embarrassing
+
+high
+
+speed dating
+
+local
+
+coax
+
+maternity leave
+
+paternity leave
+
 shady
 
 back room deal
@@ -218,7 +272,15 @@ entity
 Phrases
 =======
 
+reform the tax code
+
 Have you been studying English?
+
+reform the tax code
+
+I wonder when I shohuld buy the wedding ring.
+
+Wear it every day.
 
 How do you study?
 
