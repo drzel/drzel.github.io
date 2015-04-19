@@ -16,7 +16,7 @@ celebrant
 
 registrar
 
-buddhist
+Buddhist
 
 pathway
 
@@ -25,7 +25,7 @@ Christianity | Christian
 Islam | Muslim
 Judaism | Jew
 Buddhism | Buddhist
-Hinuism | Hindu
+Hinduism | Hindu
 Shintoism | Shinto
 
 Atheism | Atheist
@@ -318,7 +318,7 @@ In Vietnam the selling price is almost fixed.
 
 The core point of this project is avoiding import tax.
 
-To clarify, we are planning to construct a an upgrade plant and a refinery.
+To clarify, we are planning to construct an upgrade plant and a refinery.
 
 A high rating of octane.
 
@@ -489,3 +489,91 @@ We got information thought our refinery in Vietnam succeeded at constructing a s
 We can't use the identical technique so we are trying to make use of the technique used in the Chinese company.
 
 I was very afraid of being made to drink by the Chinese people, but in this project we are the customer of the Chinese people, so we didn't have to drink too much.
+
+The new company was founded this Saturday.
+
+One month ago
+
+In one month
+
+Within a year
+
+Since then
+
+Until then
+
+the way we shop
+
+keep abreast
+
+reprieve
+
+bullshit
+
+nonsense
+
+sensible
+
+superior
+
+inferior
+
+Scandinavia
+
+opposite
+
+stretch
+
+marked
+
+noticeable
+
+deteriorate
+
+world wide web
+
+Asia
+
+Europe
+
+Africa
+
+North America
+
+South America
+
+Oceania
+
+Antarctica
+
+homosexual
+
+heterosexual
+
+passion
+
+draught
+
+intimacy
+
+virtual
+
+extension
+
+mouthful
+
+claim
+
+admit
+
+encroaching
+
+invading
+
+exaggerate
+
+thesaurus
+
+synonym
+
+antonym
